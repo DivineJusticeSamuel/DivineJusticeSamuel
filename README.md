@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DivineJusticeSamuel
-- 👀 I’m interested in web/app development 
-- 🌱 I’m currently learning how to code and create websites including building an app too
+- 👀 I'm a web Developer,UI/UX designer 
+- 🌱 I’m currently learning Meta Front-End development.
 - 💞️ I’m looking to collaborate on my learning process with you.
-- 📫 How to reach me; samueldivinejustice93@gmail.com is my email.
+- 📫 How to reach me; samueldivine2021@gmail.com is my email.
 
 <!---
 Deejhaysam/web-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
